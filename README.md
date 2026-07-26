@@ -1,15 +1,13 @@
 
 
-```markdown
+
 # 📢 Noticeboard — Internal Broadcast System
 
 An internal noticeboard system for broadcasting and managing real-time system announcements, maintenance windows, and policy updates. Built with a responsive React/Vite frontend and a lightweight Express backend powered by SQLite.
 
-![Noticeboard Architecture](https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20Tailwind-blue)
-![Backend Architecture](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20SQLite-green)
-![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
 
----
+
+
 
 ## ✨ Features
 
@@ -171,7 +169,7 @@ pnpm dev  # or npm run dev
 
 Authour : Tanmoy Sarkar.
 
-```
+---
 
 
 
