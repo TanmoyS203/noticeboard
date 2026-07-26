@@ -1,0 +1,23 @@
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Local environment variables
+.env
+**/.env
+!.env.example
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+**/backend/src/notices.db
+
+# Build outputs
+dist/
+build/
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
