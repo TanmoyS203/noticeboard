@@ -5,7 +5,7 @@
 
 An internal noticeboard system for broadcasting and managing real-time system announcements, maintenance windows, and policy updates. Built with a responsive React/Vite frontend and a lightweight Express backend powered by SQLite.
 
-
+🔗 **Live Demo:** [https://noticeboard-two-taupe.vercel.app/](https://noticeboard-two-taupe.vercel.app/)
 
 
 
@@ -167,7 +167,7 @@ pnpm dev  # or npm run dev
 
 ## 🛡️ License
 
-Authour : Tanmoy Sarkar.
+Author : Tanmoy Sarkar.
 
 ---
 
